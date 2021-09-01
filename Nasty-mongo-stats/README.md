@@ -14,13 +14,3 @@ Sorun Olursa: Astpod#1411
 # Önemli
 
 Proje bana aittir izinsiz paylaşılması yasaktır. Stara basarsanız daha gelişmiş stat gelir. Bu basit bir stat altyapısıdır.
-
-
-# Sunucumuz
-
-Discord Sunucumuz: discord.gg/serendia
-
-# Ekran Görüntüleri
-
-<img src="https://cdn.discordapp.com/attachments/861999152892084255/877399664444444672/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/861999152892084255/877403567173042236/unknown.png">
